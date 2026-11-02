@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(135deg, #1e3a8a, #7c3aed);
+  color: #ffffff;
+}
+
+.hello {
+  max-width: 480px;
+  padding: 32px;
+  background: rgb(255 255 255 / .12);
+  border-radius: 16px;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.next {
+  opacity: .8;
+}
